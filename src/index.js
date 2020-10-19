@@ -18,6 +18,7 @@ import {
   LoginPage,
   ComparisonPage,
   LandingPage,
+  FavoritesPage,
 } from './components/pages';
 
 ReactDOM.render(
@@ -45,6 +46,7 @@ function App() {
       <Route path="/implicit/callback" component={LoginCallback} />
       <Route path="/compare" component={ComparisonPage} />
       <Route path="/" exact component={LandingPage} />
+      <Route path="/favorites" exact component={FavoritesPage} />
       {/* temporairly putting the landing component until we have a profile/favorites page */}
       <Security {...config} onAuthRequired={authHandler}>
         <SecureRoute path="/profile" component={LandingPage} />
