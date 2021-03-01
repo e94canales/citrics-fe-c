@@ -1,9 +1,3 @@
-
-# LABS 27 - CITRICS TEAM C
-
-You can find the deployed project [HERE](https://27-c.citrics.dev/).
-See a video demo [HERE](https://www.youtube.com/watch?v=K0kvbHh7vDY&feature=youtu.be). 
-
 ## Contributors
 
 |                                                      [Michael Johnson](https://github.com/glassbones)                                                       |                                                       [Jamie Sullivan](https://github.com/jme-sull)                                                        |                                                      [Erick Canales](https://github.com/e94canales)                                                       |                                                       [Wesley Ruedebusch](https://github.com/wesley-ruedebusch)                                                        |                                                                                                       |
